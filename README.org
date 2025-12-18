@@ -1,0 +1,9 @@
+* dendrite
+
+Master package for all dendrite packages.
+
+|---------+-----------------------------------------------|
+| source  | git:https://github.com/cbaggers/dendrite.git |
+| commit  | 409b106                                       |
+| systems | dendrite                                      |
+|---------+-----------------------------------------------|
